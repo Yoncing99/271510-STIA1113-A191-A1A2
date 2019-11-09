@@ -1,5 +1,6 @@
 # Student Info
 Matric: 271510
+
 Name: Goh Yon Cing
 
 # Introduction
@@ -7,32 +8,59 @@ According to this assignment, I have learnt to create a car loan calculator incl
 
 # Pseudocode
 Start
+
     Initialize carPrize to zero
+    
     Initialize downPayment to negative one
+    
     Initialize interestRate to zero
+    
     Initialize loanPeriod to zero
+    
     Output "Car Price (RM): "
+    
     Input car price
+    
     Loop the input car price if it is less than RM30,000
+    
     Output "Down Payment (RM): "
+    
     Input down payment
+    
     Loop the input down payment if it is negative number
+    
     Output "Loan Period (Years): "
+    
     Input loan period
+    
     Loop the input loan period if it is less than five or more than nine
+    
     Output "Interest rate (%): "
+    
     Input interest rate
+    
     Loop the input of interest rate if it is less than three or more than seven
+    
     Calculate monthlyRepayment=((carPrice-downPayment)+((carPrice-downPayment)*interestRate/100*loanPeriod))/(loanPeriod*12)
+    
     Output "Monthly Repayment: "
+    
     Output "YEARS", "PRINCIPAL", "INTEREST", "BALANCE"
+    
     Initialize i = 1
+    
     i = i++
+    
     Loop i which is less than or equal to loanPeriod
+    
     Calculate principal = monthlyRepayment*12*i
+    
     Calculate interest = totalInterest / loanPeriod * i
+    
     Calculate balance = monthlyRepayment * 12 * (loanPeriod- i)
+    
     Output i, principal, interest, balance  
+    
 End
 
 
