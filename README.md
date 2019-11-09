@@ -1,11 +1,9 @@
-# 271510-STIA1113-A191-A1A2
-
-# Student info
+# Student Info
 
 # Introduction
 
 # Pseudocode
 
-# Flow chart
+# Flow Chart
 
-# Screenshot of output
+# Screenshot of Output
