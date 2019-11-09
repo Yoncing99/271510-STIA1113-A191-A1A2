@@ -10,13 +10,9 @@ According to this assignment, I have learnt to create a car loan calculator incl
 Start
 
     Initialize carPrize to zero
-    
     Initialize downPayment to negative one
-    
     Initialize interestRate to zero
-    
     Initialize loanPeriod to zero
-    
     Output "Car Price (RM): "
     
     Input car price
@@ -65,6 +61,6 @@ End
 
 
 # Flow Chart
-
+![Flow Chart](https://user-images.githubusercontent.com/55395418/68527462-3b7c6180-0322-11ea-91ad-c6dd7c038769.png)
 
 # Screenshot of Output
