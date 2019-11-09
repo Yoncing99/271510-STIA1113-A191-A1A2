@@ -41,7 +41,7 @@ Start
 End
 
 # Flow Chart
-![Flow Chart](https://user-images.githubusercontent.com/55395418/68527462-3b7c6180-0322-11ea-91ad-c6dd7c038769.png)
+![Flow chart](https://user-images.githubusercontent.com/55395418/68527764-ac714880-0325-11ea-96f3-65021c3da4ef.png)
 
 # Screenshot of Output
 ![image](https://user-images.githubusercontent.com/55395418/68527517-9746ea80-0322-11ea-818c-da8baaaa5eb8.png)
